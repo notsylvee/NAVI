@@ -3,7 +3,7 @@ const fs = require("fs/promises");
 module.exports = {
     data: {
         name: "voiceline",
-        description: "Sends a random p.AI.nter voiceline",
+        description: "Sends a random NAVI voiceline",
         "integration_types": [0, 1],
         "contexts": [0, 1, 2]
     },
