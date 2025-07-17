@@ -15,7 +15,7 @@ module.exports = {
         if (chance < 747) {
             return;
           } else {
-            message.channel.send(`${taunt}`);
+            message.channel.send(`<:Navi:1395296283333234799> ${taunt}`);
           };
     },
 };

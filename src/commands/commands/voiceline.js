@@ -14,7 +14,7 @@ module.exports = {
         const voiceline = voicelines[Math.floor(Math.random() * voicelines.length)];
             
         await interaction.reply({
-            content: `${voiceline.text}`,
+            content: `<:Navi:1395296283333234799> ${voiceline.text}`,
             ephemeral: false
         });
       },
