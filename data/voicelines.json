@@ -14,7 +14,7 @@
         { "text": "Continued attempts at interaction with this console will result in execution. weh sorry.. heh" },
         { "text": "You lack the permission to use this console. Please step back." },
         { "text": "Due to your continued attempts to use this console, you have been deemed a liability. Administering lead." },
-        { "text": "Since you're unable to follow simple instructions, I have been given permission to terminate you.Goodbye." },
+        { "text": "Since you're unable to follow simple instructions, I have been given permission to terminate you. Goodbye." },
         { "text": "It would seem as if you do not have the cognitive function required to do your tasks. Please stand by for execution." },
         { "text": "Hello! Under normal circumstances, being in this room would lead to your execution. However, given the current situation, you have been granted an exception and have been placed on a whitelist. Whilst you're free to roam the core, take anything that could aid you, or use it as a safe-room, you do not have permission to tamper with any consoles. Should you try to interact, touch, break or kick any servers or consoles, your whitelist will be revoked, and you will be executed." },
         { "text": "Please note: You are being recorded. Smile and wave. :)" },
@@ -51,7 +51,7 @@
         { "text": "Changing conveyer direction." }
     ],
     "taunts": [
-        { "text": "Since you're unable to follow simple instructions, I have been given permission to terminate you.Goodbye." },
+        { "text": "Since you're unable to follow simple instructions, I have been given permission to terminate you. Goodbye." },
         { "text": "It would seem as if you do not have the cognitive function required to do your tasks. Please stand by for execution." },
         { "text": "Please note: You are being recorded. Smile and wave. :)" },
         { "text": "Please note: Your time here may be monitored or recorded." }
