@@ -1,0 +1,36 @@
+{
+    "roomtypes": [
+        { "num": "1", "name": "The Ridge" },
+        { "num": "2", "name": "Flooded" },
+        { "num": "3", "name": "Heavy Containment" },
+        { "num": "4", "name": "Maintenance Tunnels" },
+        { "num": "5", "name": "Mantle Extraction" },
+        { "num": "6", "name": "Oxygen Gardens" },
+        { "num": "7", "name": "Trence Tunnels" },
+        { "num": "8", "name": "River Rooms" },
+        { "num": "9", "name": "Server Farms" },
+        { "num": "10", "name": "Blacksite Administration" },
+        { "num": "11", "name": "The Dredge" },
+        { "num": "12", "name": "The Outskirts" },
+        { "num": "13", "name": "Hotel Rooms" },
+        { "num": "14", "name": "The Rooms" },
+        { "num": "15", "name": "Meat Rooms" }
+    ],
+    "docks": [
+        { "num": "1", "name": "Dock #13" },
+        { "num": "2", "name": "Dock #16" },
+        { "num": "3", "name": "Dock #48" },
+        { "num": "4", "name": "Dock #56" },
+        { "num": "5", "name": "Dock #99" },
+        { "num": "6", "name": "Unfinished Dock" },
+        { "num": "7", "name": "Maintenance Dock #B-14" },
+        { "num": "8", "name": "Outlying Cave" },
+        { "num": "9", "name": "Dock #149" },
+        { "num": "10", "name": "Graveyard Dock" },
+        { "num": "11", "name": "Dock #235" },
+        { "num": "12", "name": "Dock #46" }
+    ],
+    "rooms": [
+        { "num": "", "name": "" }
+    ]
+}
